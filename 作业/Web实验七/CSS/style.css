@@ -1,0 +1,33 @@
+body{
+         font-size: 12px;
+         color: gray;
+         font-family: Arial;
+         line-height: 2em;
+}
+a{
+          
+         text-decoration: none;
+         color: #727272;
+}
+a:hover{
+          
+         text-decoration: underline;
+
+
+}
+#lanmu{
+	font-family: white;
+
+}
+.chao:hover{
+	     color: #b9f605;
+	     text-decoration: none;
+
+
+}
+#chao{
+	color: #f6b306;
+}
+.color{
+      color: yellow;
+}

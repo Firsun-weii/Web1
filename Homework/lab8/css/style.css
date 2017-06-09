@@ -1,0 +1,152 @@
+
+
+
+/*
+头部样式
+*/
+#header{
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	background-position: top center;
+}
+
+#banner{
+	width: 1000px;
+	height: 110px;
+	padding-top: 38px;
+	padding-left: 60px;
+
+}
+#nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	/*width: 1000px;*/
+	text-align: center;
+}
+.nav_content{
+	width: 1000px;
+	font-weight: 900;
+	color: #fff;
+}
+#a{
+	color: #f9f603;
+}
+.ul li{
+	float: left;
+	/*list-style-position: inside;*/
+	list-style-type: none;
+	padding-left: 30px;
+}
+.ul a{
+	line-height: 40px;
+}
+.ul a:hover{
+	color: #f9f603;
+	text-decoration: none;
+}
+#text{
+	width: 140px;
+	height: 19px;
+	color: #f8f5ee;
+	line-height: 19px;
+	margin-top: 8px;
+}
+#button{
+	width: 44px;
+	height: 21px;
+	background-color: #ooo;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+	margin-top: 10px;
+}
+
+/*
+内容样式
+*/
+#content{
+	text-align: center;
+	clear: left;
+	clear: right;
+}
+
+#content_top{
+	overflow: hidden;
+}
+
+#content_bottom_right{
+	width: 280px;
+	padding-top: 20px;
+	float: right;
+}
+
+.news_pic{
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+	background-color: blue;
+
+	
+}
+
+.new_pic img{
+	width: 300px;
+	height: 200px;
+}
+
+.new_list{
+	width: 330px;
+	height: 243px;
+	padding-left: 38px;
+	float: left;
+	background-image: url(../images/change.png);
+	background-color: red;
+}
+
+.news_announce{
+	width: 227px;
+	padding-left: 20px;
+	float: right;
+	background-image: url(../images/board.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-color: yellow;
+
+}
+
+.new_announce ul{
+	padding-top: 90px;
+}
+
+.fengcai{
+	background-image: url(../images/fenggcai_bg1.png);
+}
+
+.fengcaitupian{
+	background-image: url(../images/fengcai_bg2.png);
+}
+
+#content_bottom_right{
+	background-image: url(../images/show.png);
+}
+
+.rightbiaoti{
+	height: 23px;
+	background-image: url(../images/show.png);
+}
+
+.rightneirong{
+	width: 326px;
+	background-image: url(../images/show_bg.png);
+}
+
+.rightneirong img{
+	width: 224px;
+
+}
+
+#footer{
+	height: 105px;
+	background-image: url(../images/foot.gif);
+}
